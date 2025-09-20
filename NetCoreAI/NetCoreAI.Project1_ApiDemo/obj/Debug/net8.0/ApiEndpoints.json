@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NetCoreAI.Project1_ApiDemo.Controller.CustomersController",
+    "Method": "CustomerList",
+    "RelativePath": "api/Customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetCoreAI.Project1_ApiDemo.Controller.CustomersController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "NetCoreAI.Project1_ApiDemo.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

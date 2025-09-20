@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|c:\\users\\efeka\\onedrive\\belgeler\\netcoreai\\netcoreai\\netcoreai.project1_apidemo\\controller\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|solutionrelative:netcoreai.project1_apidemo\\controller\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|c:\\users\\efeka\\onedrive\\belgeler\\netcoreai\\netcoreai\\netcoreai.project1_apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|solutionrelative:netcoreai.project1_apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|c:\\users\\efeka\\onedrive\\belgeler\\netcoreai\\netcoreai\\netcoreai.project1_apidemo\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|solutionrelative:netcoreai.project1_apidemo\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|c:\\users\\efeka\\onedrive\\belgeler\\netcoreai\\netcoreai\\netcoreai.project1_apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|solutionrelative:netcoreai.project1_apidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|c:\\users\\efeka\\onedrive\\belgeler\\netcoreai\\netcoreai\\netcoreai.project1_apidemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B97A129-ED31-4384-B4A5-8918BE4125D5}|NetCoreAI.Project1_ApiDemo\\NetCoreAI.Project1_ApiDemo.csproj|solutionrelative:netcoreai.project1_apidemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Context\\ApiContext.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project1_ApiDemo\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Context\\ApiContext.cs",
+              "RelativeToolTip": "NetCoreAI.Project1_ApiDemo\\Context\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:02:08.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "NetCoreAI.Project1_ApiDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\appsettings.json",
+              "RelativeToolTip": "NetCoreAI.Project1_ApiDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T16:00:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Controller\\CustomersController.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project1_ApiDemo\\Controller\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Controller\\CustomersController.cs",
+              "RelativeToolTip": "NetCoreAI.Project1_ApiDemo\\Controller\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:50:59.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project1_ApiDemo\\Customer.cs",
+              "ToolTip": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Customer.cs",
+              "RelativeToolTip": "NetCoreAI.Project1_ApiDemo\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:30:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project1_ApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\efeka\\OneDrive\\Belgeler\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project1_ApiDemo\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project1_ApiDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:29:51.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
