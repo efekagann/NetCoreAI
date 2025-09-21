@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using NetCoreAI.Project1_ApiDemo.Entities;
 
 namespace NetCoreAI.Project1_ApiDemo.Context
 {

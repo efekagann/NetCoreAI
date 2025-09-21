@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NetCoreAI.Project1_ApiDemo.Context;
+using NetCoreAI.Project1_ApiDemo.Entities;
 
 namespace NetCoreAI.Project1_ApiDemo.Controller
 {
